@@ -166,3 +166,11 @@ function moveFruit() {
 
 </body>
 </html>
+
+
+
+
+
+
+![oyunun görünüşü](https://github.com/AchmetAmet1/Java-script-Proje/assets/168425092/c44875cf-3ee1-44e1-9df0-fe452c368c82)
+![oyunun kuralları](https://github.com/AchmetAmet1/Java-script-Proje/assets/168425092/3136761f-0e04-4319-aa3d-28ea5d5d65fd)
