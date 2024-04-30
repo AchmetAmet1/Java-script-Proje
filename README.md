@@ -1,11 +1,11 @@
-Oyunun oynanışı
+#Oyunun oynanışı
 Meyve toplama oyunu var olan sepetle düşen meyveyi toplayarak skor kazanmamızı hedefleyen ve 3 kereden fazla meyveyi kaçırmamamız gereken bir oyun.
 
 
-Oyunun linki
+##Oyunun linki
 https://meyvetoplama.neocities.org
 
-Oyunun oynanış videosu
+##Oyunun oynanış videosu
 https://www.youtube.com/watch?v=t7GJdjWpGOQ
 
 
